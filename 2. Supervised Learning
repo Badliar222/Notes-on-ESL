@@ -1,17 +1,18 @@
 2.1 Introduction 
+
 2.2 Variable Types and Terminology
 2.3 Two Simple Approaches to Prediction:
 Least Squares and Nearest Neighbors 
 2.3.1 Linear Models and Least Squares
 2.3.2 Nearest-Neighbor Methods
-2.3.3 From Least Squares to Nearest Neighbors . . . . 16
-2.4 Statistical Decision Theory . . . . . . . . . . . . . . . . . 18
-2.5 Local Methods in High Dimensions . . . . . . . . . . . . . 22
+2.3.3 From Least Squares to Nearest Neighbors
+2.4 Statistical Decision Theory 
+2.5 Local Methods in High Dimensions 
 2.6 Statistical Models, Supervised Learning
-and Function Approximation . . . . . . . . . . . . . . . . 28
+and Function Approximation 
 2.6.1 A Statistical Model
-for the Joint Distribution Pr(X,Y ) . . . . . . . 28
-2.6.2 Supervised Learning . . . . . . . . . . . . . . . . 29
-2.6.3 Function Approximation . . . . . . . . . . . . . 29
-2.7 Structured Regression Models . . . . . . . . . . . . . . . 32
-2.7.1 Difficulty of the Problem . . . . . . . . . . . . . 32
+for the Joint Distribution Pr(X,Y )
+2.6.2 Supervised Learning
+2.6.3 Function Approximation 
+2.7 Structured Regression Models 
+2.7.1 Difficulty of the Problem
